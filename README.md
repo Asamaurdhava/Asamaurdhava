@@ -89,7 +89,7 @@ Every project merges technical excellence with responsible creation and visual i
 ## 📈 Learning Timeline
 
 ```
-2009: HTML/CSS foundations → First spark ignited (9th grade)
+2016: HTML/CSS foundations → First spark ignited (9th grade)
 2018: Python mastery → "Hello, programming world!"
 2021: Java & OOP → CSE 110 structured learning
 2024: C++ & DSA → Algorithm thinking and optimization
