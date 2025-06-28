@@ -116,4 +116,4 @@ Next: Resume 100 Days of SwiftUI → iOS development with full-stack arsenal
 
 ⭐ *"Every line of code is a step toward turning imagination into innovation—whether on the web, mobile, or platforms yet to be invented"*
 
-![Profile Views](https://komarev.com/ghpv/?username=Asamaurdhava&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpv/?username=Asamaurdhava&label=Profile%20views&color=0e75b6&style=flat)
