@@ -32,7 +32,7 @@ const specstan = {
 
 A recipe collection showcasing semantic HTML structure through Indian cuisine. Built with clean code philosophy where every element serves a purpose—my approach to crafting digital experiences.
 
-### [🔄 Project Revive]([https://github.com/Asamaurdhava/project-revive](https://github.com/Asamaurdhava/Revive))
+### [🔄 Project Revive](https://github.com/Asamaurdhava/Revive)
 Learning assistant system presented at **SunHacks 2023, ASU**. Helps programmers restart their coding journey through personalized curriculum recommendations. Demonstrates problem-solving for real educational challenges.
 
 *Collaborator: Harsh Vaishya - [@______](https://github.com/______)*
