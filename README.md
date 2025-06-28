@@ -37,7 +37,7 @@ Learning assistant system presented at **SunHacks 2023, ASU**. Helps programmers
 
 *Collaborator: Harsh Vaishya - [@______](https://github.com/______)*
 
-### [📱 iOS Development Portfolio](https://github.com/Asamaurdhava)
+### [📱 iOS Development Portfolio](https://github.com/Asamaurdhava/RockPaperScissors)
 SwiftUI applications exploring mobile development possibilities through Paul Hudson's 100 Days of SwiftUI course (progressed to Day 34, currently paused). **Swift Student Challenge '25 participant** with ambitious plans for next year's recognition. Will resume iOS development learning after mastering full-stack fundamentals.
 
 *"Building experiences that fit in your pocket, powered by creativity"*
