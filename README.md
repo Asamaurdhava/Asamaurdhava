@@ -46,6 +46,8 @@ SwiftUI applications exploring mobile development possibilities through Paul Hud
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asamaurdhava&layout=compact&theme=radical&hide_border=true)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Asamaurdhava&theme=react-dark)
+
 ## 🎨 Beyond Code
 
 When I'm not crafting digital solutions across platforms:
