@@ -51,6 +51,7 @@ SwiftUI applications exploring mobile development possibilities through Paul Hud
 ## 🎨 Beyond Code
 
 When I'm not crafting digital solutions across platforms:
+- ✍🏻 **Poetry & Writing** - Crafting poems, articles, and creative expression
 - 🏊‍♂️ **Swimming** - Finding flow and rhythm in the water
 - 🥁 **Jazz Drumming** - Creating beats, improvising melodies, expressing creativity
 - 📚 **Reading** - Exploring ideas, stories, and expanding perspectives
