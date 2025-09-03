@@ -6,11 +6,11 @@
 ## 🎯 About Me
 
 **Computer Science Honors Student** at Barrett, the Honors College, Arizona State University  
-**Self-taught Programmer** | **Multi-Platform Developer** | **Aspiring Creator & Founder**
+**Self-taught Programmer** | **Multi-Platform Developer** | **Aspiring Creator & Founder (I dreamt of myself to be one since my youth)**
 
-My programming journey began in 9th grade with HTML and CSS, evolving through Python (2018), Java with CSE 110 (2021), C++ for data structures (2024), and SwiftUI for iOS development (2025). While college strengthens my foundation in OOP and DSA, I believe in learning by building—crafting both web applications and mobile experiences.
+My programming journey began in 9th grade with HTML and CSS, evolving through Python (2018), Java with CSE 110 (2021), C++ for data structures (2024), and SwiftUI for iOS development (2025). While college strengthens my foundation in OOP and DSA, I believe in learning by building—crafting full-stack applications and AI integrated inside them.
 
-Currently mastering full-stack fundamentals before resuming my iOS development journey with enhanced skills. Building for multiple platforms, targeting users everywhere. 🚀
+Currently mastering full-stack fundamentals. Building for platforms, targeting users everywhere. 🚀
 
 ## 🛠️ Tech Arsenal
 
