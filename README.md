@@ -32,13 +32,21 @@ const specstan = {
 ### [🍛 Odin Recipes](https://github.com/Asamaurdhava/odin-recipes)
 > *"I like creating recipes using HTML where structure acts like ingredients"*
 
-A recipe collection showcasing semantic HTML structure through Indian cuisine. Built with clean code philosophy where every element serves a purpose—my approach to crafting digital experiences.
+A recipe collection showcasing semantic HTML structure through Indian cuisine. Built with a clean code philosophy where every element serves a purpose—my approach to crafting digital experiences.
 
-### [🔄 Project Revive](https://github.com/Asamaurdhava/Revive)
-Learning assistant system presented at **SunHacks 2023, ASU**. Helps programmers restart their coding journey through personalized curriculum recommendations. Demonstrates problem-solving for real educational challenges.
+### [▶️ Y-C-N](https://github.com/Asamaurdhava/Y-C-N)
+YCN instantly notifies you whenever your favorite YouTube channel uploads a new video — but only after you’ve shown genuine interest.
+
+    ✨ Highlights:
+    
+    ✅ No spam — notifications only when you really care
+    
+    ✅ Channel-focused — updates tailored to your choices
+    
+    ✅ Lightweight & user-friendly
 
 ### [📱 iOS Development Portfolio](https://github.com/Asamaurdhava/RockPaperScissors)
-SwiftUI applications exploring mobile development possibilities through Paul Hudson's 100 Days of SwiftUI course (progressed to Day 34, currently paused). **Swift Student Challenge '25 participant** with ambitious plans for next year's recognition. Will resume iOS development learning after mastering full-stack fundamentals.
+SwiftUI applications exploring mobile development possibilities through Paul Hudson's 100 Days of SwiftUI course (progressed to Day 34, currently paused). **Swift Student Challenge '25 participant** with ambitious plans for next year's recognition. I have a plan to resume iOS development learning after mastering full-stack fundamentals.
 
 *"Building experiences that fit in your pocket, powered by creativity"*
 
