@@ -10,6 +10,8 @@
 
 My programming journey began in 9th grade with HTML and CSS, evolving through Python (2018), Java with CSE 110 (2021), C++ for data structures (2024), and SwiftUI for iOS development (2025). While college strengthens my foundation in OOP and DSA, I believe in learning by building—crafting full-stack applications and AI integrated inside them.
 
+Additionally, I have a basic understanding of the Swift language and iOS development.
+
 Currently mastering full-stack fundamentals. Building for platforms, targeting users everywhere. 🚀
 
 ## 🛠️ Tech Arsenal
