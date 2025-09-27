@@ -29,7 +29,7 @@ const specstan = {
 
 ## 🌟 Featured Projects
 
-### [🤖 Inflago-AI]
+### [🤖 Inflago-AI](https://github.com/Asamaurdhava/InflagoAI-readme)
 > *"AI persona optimization platform built entirely using Claude Code while learning full-stack development in parallel"*
 
 Next.js application integrating OpenAI, Anthropic, and Google AI APIs with Glass Morphism UI. Demonstrates AI-assisted development workflow and multi-provider integration capabilities during an active full-stack learning journey.
