@@ -29,13 +29,15 @@ const specstan = {
 
 ## 🌟 Featured Projects
 
-### [🍛 Odin Recipes](https://github.com/Asamaurdhava/odin-recipes)
-> *"I like creating recipes using HTML where structure acts like ingredients"*
+### [🤖 Inflago-AI]
+> *"AI persona optimization platform built entirely using Claude Code while learning full-stack development in parallel"*
 
-A recipe collection showcasing semantic HTML structure through Indian cuisine. Built with a clean code philosophy where every element serves a purpose—my approach to crafting digital experiences.
+Next.js application integrating OpenAI, Anthropic, and Google AI APIs with Glass Morphism UI. Demonstrates AI-assisted development workflow and multi-provider integration capabilities during an active full-stack learning journey.
 
-### [▶️ Y-C-N](https://github.com/Asamaurdhava/Y-C-N)
-YCN instantly notifies you whenever your favorite YouTube channel uploads a new video — but only after you’ve shown genuine interest.
+### [🔍 Claria](https://github.com/Asamaurdhava/Claria)
+> *"Document simplification platform built for Google Chrome Built-in AI Challenge 2025"*
+
+Vanilla JavaScript application leveraging Chrome's four AI APIs to transform complex documents into clear language. Features on-device processing for privacy, a universal fallback engine, and real-world problem-solving for document comprehension barriers affecting billions globally.
 
     ✨ Highlights:
     
@@ -111,20 +113,17 @@ Next: Resume 100 Days of SwiftUI → iOS development with full-stack arsenal
 
 ## 🎯 Competitive Achievements & Goals
 
-- ✅ **Swift Student Challenge 2025** - Successful participation
-- 🎯 **Swift Student Challenge 2026** - Targeting recognition and win
-- ✅ **SunHacks 2023** - Project presentation at Arizona State University
 - 🚀 **Future Hackathons** - Building portfolio for competitive success
+- ✅ **Swift Student Challenge 2025** - Successful participation
+- ✅ **SunHacks 2023** - Project presentation at Arizona State University
 
 ## 🤝 Connect With Me
 
 - 🌐 **Portfolio:** *Coming Soon - Multi-platform showcase*
 - 📧 **Email:** [eruditevsr@gmail.com](mailto:eruditevsr@gmail.com)
-- 💼 **LinkedIn:** [visheshsrajput](https://www.linkedin.com/in/visheshsrajput/)
+- 💼 **LinkedIn:** [Vishesh S Rajput](https://www.linkedin.com/in/visheshsrajput/)
 - 🐦 **X (Twitter):** [@atspecstan](https://x.com/atspecstan)
 
 ---
 
 ⭐ *"Every line of code is a step toward turning imagination into innovation—whether on the web, mobile, or platforms yet to be invented"*
-
-![Profile Views](https://komarev.com/ghpv/?username=Asamaurdhava&label=Profile%20views&color=0e75b6&style=flat)
